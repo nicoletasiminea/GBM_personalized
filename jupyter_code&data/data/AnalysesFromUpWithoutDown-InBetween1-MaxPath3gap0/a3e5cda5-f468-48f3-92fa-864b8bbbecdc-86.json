@@ -1,0 +1,282 @@
+{
+  "Id": "76a559ca-6b8a-4cac-9361-e434c59ebf3e",
+  "Name": "a3e5cda5-f468-48f3-92fa-864b8bbbecdc",
+  "Status": "Completed",
+  "CurrentIteration": 1,
+  "CurrentIterationWithoutImprovement": 1,
+  "DateTime": {
+    "TimeElapsed": "00:00:00.0220760"
+  },
+  "Parameters": {
+    "Parameters": {
+      "RandomSeed": 935395782,
+      "MaximumIterations": 1,
+      "MaximumIterationsWithoutImprovement": 1,
+      "MaximumPathLength": 3,
+      "Repeats": 1,
+      "Heuristics": [
+        [
+          "A"
+        ],
+        [
+          "B"
+        ],
+        [
+          "C"
+        ],
+        [
+          "D"
+        ],
+        [
+          "E"
+        ],
+        [
+          "Z"
+        ]
+      ]
+    }
+  },
+  "Solutions": {
+    "NumberOfSolutions": 1,
+    "Solutions": [
+      {
+        "MaximumControlPathLength": 3,
+        "NumberOfUniqueInputNodes": 31,
+        "NumberOfUniquePreferredInputNodes": 26,
+        "NumberOfTargetNodesControlledByPreferredInputNodes": 42,
+        "UniqueInputNodes": [
+          "AURKA",
+          "ALK",
+          "ATIC",
+          "EGFR",
+          "BLK",
+          "C1QA",
+          "CD22",
+          "CDK7",
+          "TRPM7",
+          "EPOR",
+          "MTOR",
+          "GRB2",
+          "HDAC2",
+          "HDAC5",
+          "HRH2",
+          "JUN",
+          "ITGAV",
+          "ITGB1",
+          "IBSP",
+          "KEAP1",
+          "KIF5C",
+          "ANXA1",
+          "MAP3K1",
+          "MST1R",
+          "NR5A2",
+          "NTRK2",
+          "NTRK3",
+          "PDGFRA",
+          "TEC",
+          "TNFRSF8",
+          "RPLP0"
+        ],
+        "UniquePreferredInputNodes": [
+          "AURKA",
+          "ALK",
+          "ATIC",
+          "EGFR",
+          "BLK",
+          "C1QA",
+          "CD22",
+          "CDK7",
+          "TRPM7",
+          "EPOR",
+          "MTOR",
+          "GRB2",
+          "HDAC2",
+          "HDAC5",
+          "HRH2",
+          "JUN",
+          "ITGAV",
+          "ITGB1",
+          "KEAP1",
+          "MAP3K1",
+          "MST1R",
+          "NTRK2",
+          "NTRK3",
+          "PDGFRA",
+          "TEC",
+          "TNFRSF8"
+        ],
+        "Paths": [
+          [
+            "AURKA",
+            "ALDH1A1"
+          ],
+          [
+            "ALK"
+          ],
+          [
+            "ATIC"
+          ],
+          [
+            "AURKA"
+          ],
+          [
+            "EGFR",
+            "BCR"
+          ],
+          [
+            "BLK"
+          ],
+          [
+            "C1QA"
+          ],
+          [
+            "C1QA",
+            "C1QC"
+          ],
+          [
+            "CD22"
+          ],
+          [
+            "BLK",
+            "CD79B"
+          ],
+          [
+            "CDK7"
+          ],
+          [
+            "CDK7",
+            "CDKN1A"
+          ],
+          [
+            "TRPM7",
+            "EEF2"
+          ],
+          [
+            "EGFR"
+          ],
+          [
+            "EPOR"
+          ],
+          [
+            "EGFR",
+            "FGFR1",
+            "FGFR1",
+            "FGFR1"
+          ],
+          [
+            "MTOR",
+            "FKBP1A"
+          ],
+          [
+            "GRB2"
+          ],
+          [
+            "HDAC2",
+            "HDAC10"
+          ],
+          [
+            "HDAC2"
+          ],
+          [
+            "HDAC5"
+          ],
+          [
+            "HRH2"
+          ],
+          [
+            "JUN",
+            "IL6"
+          ],
+          [
+            "ITGAV"
+          ],
+          [
+            "ITGB1"
+          ],
+          [
+            "IBSP",
+            "ITGB3"
+          ],
+          [
+            "JUN"
+          ],
+          [
+            "KEAP1",
+            "RAC1",
+            "KALRN"
+          ],
+          [
+            "ITGAV",
+            "ITGB3",
+            "KDR"
+          ],
+          [
+            "KEAP1"
+          ],
+          [
+            "KIF5C"
+          ],
+          [
+            "ANXA1",
+            "LMTK2"
+          ],
+          [
+            "MAP3K1"
+          ],
+          [
+            "MST1R",
+            "MET"
+          ],
+          [
+            "MST1R"
+          ],
+          [
+            "MTOR"
+          ],
+          [
+            "NR5A2",
+            "NCOA2"
+          ],
+          [
+            "NR5A2"
+          ],
+          [
+            "NTRK2"
+          ],
+          [
+            "NTRK3"
+          ],
+          [
+            "EGFR",
+            "MET",
+            "PARP1"
+          ],
+          [
+            "PDGFRA"
+          ],
+          [
+            "PDGFRA",
+            "PDGFRB"
+          ],
+          [
+            "KEAP1",
+            "RAC1"
+          ],
+          [
+            "TEC"
+          ],
+          [
+            "TNFRSF8"
+          ],
+          [
+            "TRPM7"
+          ],
+          [
+            "RPLP0",
+            "UBD"
+          ]
+        ]
+      }
+    ]
+  }
+}
